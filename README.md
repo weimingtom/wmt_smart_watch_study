@@ -2,12 +2,12 @@
 My smart watch study
 
 ## OneWatch, STM32F411, port to NUCLEO F411RE + 1.28inch round screen    
-* OneWatch_Soft_f411re_v1.rar  
+* (not good) OneWatch_Soft_f411re_final_work.7z  
 * 学了3天的littleVGL做了一个手表, OneWatch, STM32F411    
 * https://www.bilibili.com/video/av757399659  
 * search baidupan, OneWatch.rar  
 * nucleo f411re: OneWatch_Soft_f411re_v1.rar  
-* f411ceu6: OneWatch_Soft_v1_success_缺面包板接线图.rar  
+* (IMP) f411ceu6: OneWatch_Soft_v1_success_缺面包板接线图.rar  
 * Nucleo F411RE<--->1.28寸圆形屏    
 ```
 Nucleo F411RE<--->1.28寸圆形屏  
@@ -34,7 +34,7 @@ https://zhuanlan.zhihu.com/p/70099066
 * RCC设置晶振  
 https://blog.csdn.net/Qxiaofei_/article/details/119006893   
 * 定时器开NVIC中断（或update中断）  
-* STM32F103RCT6<->OLED12864  
+* (IMP) STM32F103RCT6<->OLED12864  
 ```
 STM32F103RCT6<->OLED12864
 3.3V(left 2 bottom 1)<->VCC  
