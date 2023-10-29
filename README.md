@@ -1,7 +1,7 @@
 # wmt_smart_watch_study
 My smart watch study
 
-## open-watch, STM32F030C8T6, but port to STM32F103RCT6    
+## open-watch, STM32F030C8T6, but port to STM32F103RCT6 + OLED12864      
 * https://github.com/SMotlaq/open-watch    
 * https://github.com/SMotlaq/open-watch/blob/master/open-watch-firmware/my_watch_software/Src/main.c  
 * openwatch_v5_run_success.rar  
