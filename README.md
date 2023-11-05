@@ -119,3 +119,25 @@ sck
 led
 sdo
 ```
+* 接线
+```
+sck 47=1.15
+miso 46=1.14
+mosi 45=1.13
+ss 44=1.12
+dc 43=1.11
+
+reset 42=1.10
+
+-32
+
+vcc<->jlink Vout
+gnd<->jlink GND
+cs<->1.12
+reset<->1.10
+dc<->1.11
+sdi<->1.13
+sck<->1.15
+led<->jlink Vout
+sdo<->NC
+```
