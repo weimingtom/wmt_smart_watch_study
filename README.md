@@ -98,7 +98,12 @@ PB7(left 1 bottom 4)<->SDA
 * fr8000_lvgl_watch_240x280-master_v1_run_success.rar
 * FR8008XP开发板
 
-## (TODO) nrf52840 讯联开发板, with j-link, port to ili9341  
+## (TODO) 优感手表, nrf52840 讯联开发板, with j-link, port to ili9341  
+* (TODO) 优感手表, nrf52840, 魔改成ili9341显示（原版不是），注释掉大部分传感器代码  
+smart-watch_top_v4_ili9341.7z  
+待补充原来的gitee网址  
+https://gitee.com/in_drama/smart-watch  
+smart-watch_top_v1_build_success.7z  
 * D:\work_nrf52840  
 * smart-watch_top_v5_ili9341_watch.7z  
 ```
