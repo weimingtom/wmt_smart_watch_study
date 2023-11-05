@@ -89,3 +89,7 @@ GND(left 2 bottom 2)<->GND
 PB6(left 2 bottom 5)<->SCL  
 PB7(left 1 bottom 4)<->SDA  
 ```
+
+## (TODO, TODO) OM6621, 昂瑞微, HS6621, 汉天下    
+* 6621PG手表开发板资料.rar  
+* sdk_smartwatch_6621p_gxevb_v01.zip  
