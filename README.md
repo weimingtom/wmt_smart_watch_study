@@ -103,7 +103,8 @@ PB7(left 1 bottom 4)<->SDA
 smart-watch_top_v4_ili9341.7z  
 待补充原来的gitee网址  
 https://gitee.com/in_drama/smart-watch  
-smart-watch_top_v1_build_success.7z  
+smart-watch_top_v1_build_success.7z
+* with nRF5SDK1500a53641a, nRF5 SDK 15.0.0  
 * D:\work_nrf52840  
 * smart-watch_top_v5_ili9341_watch.7z  
 ```
