@@ -93,3 +93,8 @@ PB7(left 1 bottom 4)<->SDA
 ## (TODO, TODO) OM6621, 昂瑞微, HS6621, 汉天下    
 * 6621PG手表开发板资料.rar  
 * sdk_smartwatch_6621p_gxevb_v01.zip  
+
+## (TODO) FR8000  
+* fr8000_lvgl_watch_240x280-master_v1_run_success.rar
+* FR8008XP开发板
+
