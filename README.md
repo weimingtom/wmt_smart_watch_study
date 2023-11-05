@@ -98,3 +98,24 @@ PB7(left 1 bottom 4)<->SDA
 * fr8000_lvgl_watch_240x280-master_v1_run_success.rar
 * FR8008XP开发板
 
+## (TODO) nrf52840 讯联开发板, with j-link, port to ili9341  
+* D:\work_nrf52840  
+* smart-watch_top_v5_ili9341_watch.7z  
+```
+sck 47=1.15
+miso 46=1.14
+mosi 45=1.13
+ss 44=1.12
+dc 43=1.11
+reset 42=1.10
+-32
+vcc
+gnd
+cs
+reset
+dc
+sdi
+sck
+led
+sdo
+```
