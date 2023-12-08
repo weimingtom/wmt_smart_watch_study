@@ -1,6 +1,12 @@
 # wmt_smart_watch_study
 My smart watch study
 
+## (TODO) NWatch  
+* https://gitee.com/weidongshan/NWatch-DShanMCU-F103  
+* https://www.bilibili.com/video/BV1Rw411r7kb/?vd_source=8aac237d3ed1fe24370f8df03ab1993d  
+* https://blog.zakkemble.net/diy-digital-wristwatch  
+* https://github.com/ZakKemble/NWatch  
+
 ## OneWatch, STM32F411, port to NUCLEO F411RE + 1.28inch round screen    
 * (not good) OneWatch_Soft_f411re_final_work.7z  
 * 学了3天的littleVGL做了一个手表, OneWatch, STM32F411    
