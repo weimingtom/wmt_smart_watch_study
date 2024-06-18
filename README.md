@@ -10,7 +10,8 @@ My smart watch study
 * https://blog.zakkemble.net/diy-digital-wristwatch  
 * https://github.com/ZakKemble/NWatch  
 
-## (TODO) OV-Watch  
+## (TODO) OV-Watch, NUCLEO-F411RE + Waveshare 1.69inch Touch LCD Module    
+* https://www.waveshare.net/wiki/1.69inch_Touch_LCD_Module  
 * connection
 ```
 right border<->left,1,2,right,1,2
