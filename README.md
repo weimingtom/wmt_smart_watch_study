@@ -10,6 +10,23 @@ My smart watch study
 * https://blog.zakkemble.net/diy-digital-wristwatch  
 * https://github.com/ZakKemble/NWatch  
 
+## (TODO) OV-Watch  
+* https://github.com/No-Chicken/OV-Watch  
+https://item.taobao.com/item.htm?id=791307182743  
+https://gitee.com/kingham/OV-Watch  
+https://github.com/No-Chicken/FryPi  
+https://gitee.com/kingham/FryPi  
+* ov-watch + NUCLEO-F411RE   
+OV_Watch_V2.4_v13_will_crash_close_backlight.7z  
+* sim
+```
+在xubuntu20下编译运行OV-Watch的模拟器代码成功，效果如下，左边是我自己的工程模板，
+右边是定制过的模拟器代码（带鼠标图标，修改过）。原版是用Windows编译（可能是cmake），
+我这里是用make编译，所以要改动。我猜测可能是用squareline或者类似的工具生成ui代码。
+至于硬件手表版，还没开始研究
+```
+* OV-Watch-main_xubuntu_v1_sim_success.tar.gz
+
 ## OneWatch, STM32F411, port to NUCLEO F411RE + 1.28inch round screen    
 * (not good) OneWatch_Soft_f411re_final_work.7z  
 * 学了3天的littleVGL做了一个手表, OneWatch, STM32F411    
