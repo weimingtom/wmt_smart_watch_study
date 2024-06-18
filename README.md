@@ -11,6 +11,22 @@ My smart watch study
 * https://github.com/ZakKemble/NWatch  
 
 ## (TODO) OV-Watch  
+* connection
+```
+right border<->left,1,2,right,1,2
+VCC<->VCC<->left 2 top 8
+GND<->GND<->left 2 top 10
+LCD_DIN<->PB5(x)PA7<->right 1 bottom 5(x)right 1 top 8
+LCD_CLK<->PB3(x)PA5<->right 1 bottom 4(x)right 1 top 6
+LCD_CS<->PB8<->right 1 top 2
+LCD_DC<->PB9<->right 1 top 3
+LCD_RST<->PB7<->left 1 bottom 9
+LCD_BL<->PB0(x)PC0<->left 2 bottom 3(x)left 2 bottom 1
+TP_SDA<->PB4<->right 1 bottom 6
+TP_SCL<->PB6(x!!!)PA8<->right 1 bottom 11(x)right 1 bottom 8
+TP_RST<->PA15<->left 1 bottom 11
+TP_IRQ<->PB1<->right 2 bottom 8
+```
 * https://github.com/No-Chicken/OV-Watch  
 https://item.taobao.com/item.htm?id=791307182743  
 https://gitee.com/kingham/OV-Watch  
