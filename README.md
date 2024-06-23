@@ -10,6 +10,12 @@ My smart watch study
 * https://blog.zakkemble.net/diy-digital-wristwatch  
 * https://github.com/ZakKemble/NWatch  
 
+## (TODO) zhuhai-and/LV8AndroidWatch, fbiego/esp32-c3-mini   
+* https://www.bilibili.com/video/BV1iJ4m1u7FF    
+* https://github.com/fbiego/esp32-c3-mini   
+* https://github.com/zhuhai-and/LV8AndroidWatch   
+* https://github.com/zhuhai-and/LV8AndroidWatch/releases  
+
 ## (TODO) OV-Watch, NUCLEO-F411RE + Waveshare 1.69inch Touch LCD Module    
 * https://www.waveshare.net/wiki/1.69inch_Touch_LCD_Module  
 * connection
