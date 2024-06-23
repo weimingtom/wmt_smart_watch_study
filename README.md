@@ -6,7 +6,7 @@ My smart watch study
 
 ## (TODO) NWatch  
 * https://gitee.com/weidongshan/NWatch-DShanMCU-F103  
-* https://www.bilibili.com/video/BV1Rw411r7kb/?vd_source=8aac237d3ed1fe24370f8df03ab1993d  
+* https://www.bilibili.com/video/BV1Rw411r7kb  
 * https://blog.zakkemble.net/diy-digital-wristwatch  
 * https://github.com/ZakKemble/NWatch  
 
