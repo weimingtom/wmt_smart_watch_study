@@ -200,3 +200,8 @@ sdo<->NC
 ## csdn TODO:  
 * (TODO) 基于STM32的OLED多级菜单项目（简化版智能手表）
 * (TODO) 基于STM32的可穿戴手环设计  
+
+## 立创黄山派
+* https://github.com/OpenSiFli/lckfb-hspi-ulp_example/tree/main/lvgl/watch
+* https://wiki.lckfb.com/zh-hans/hspi-sf32lb52/lckfb-hspi-sf32lb52/watch.html
+
